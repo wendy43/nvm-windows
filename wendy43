@@ -1,0 +1,13 @@
+nvm install version_number
+nvm use version_number
+node -v
+npm - node pakage manager
+yarn - v1 -> npm install --global yarn
+yarn -v
+// npm install = yarn add
+-> yarn create vite
+-> framework (vue) -> vcariant (javasript)
+pakage.jascon
+-> yarn // npm install
+-> to start, yarn dev
+// hmr hot module replaement
